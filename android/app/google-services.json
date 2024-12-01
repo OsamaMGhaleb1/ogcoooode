@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42187746156",
+    "project_id": "faqih-85pm5k",
+    "storage_bucket": "faqih-85pm5k.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42187746156:android:4616b8dd5cefb8a856a149",
+        "android_client_info": {
+          "package_name": "io.builderking.hiva"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5dVwhZSdO6_dOoNaGMP4jnH-xEMsSouA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
